@@ -15,3 +15,5 @@ After having a first feedback from the community, we shall jointly decide which 
 ## How do I propose a new ACGP
 
 It is as easy as cloning/coping the [ACGPtemplate.md](./ACGPtemplate.md) file and creating a new file with your proposal in the [ACGPs](./ACGPs/) folder in this Github repository and create yourself (you need to have a membership token of course) a new votarion in the [Rinkeby DAO](https://rinkeby.aragon.org/#/flight.aragonid.eth/) once your AGP is in the master branch of this repository.
+
+Please be sure that all the votations you create are done under the membership (MBR) token voting App. We have also a Merit (MRT) Token, but we shall not use it until we jointly define its minting rules and its features and functionalities (e.g. what kind of decitions we want to take under a reputation system instead of the democratic that the Cooperative currently embrace?)
