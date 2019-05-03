@@ -12,6 +12,6 @@ The [Mainnet DAO](https://mainnet.aragon.org/#/0x940B2B518F761f4c52CDd9865C57D9a
 The [Rinkeby DAO](https://rinkeby.aragon.org/#/flight.aragonid.eth/), recently created, will be used to test this proposed ACGP process and have the community signalling about desired decitions about new membership process, management of the AragonCoop operations, processes and funds.
 After having a first feedback from the community, we shall jointly decide which kind of decisions shall be migrated to the Mainnet DAO to consider them as completely binding or if we can consider the Rinkeby decisions as binding without going to mainnet.
 
-## How do I propose a new ACGP
+## How do I propose a new ACGP?
 
 It is as easy as cloning/coping the [ACGPtemplate.md](./ACGPtemplate.md) file and creating a new file with your proposal in the [ACGPs](./ACGPs/) folder in this Github repository and create yourself (you need to have a membership token of course) a new votarion in the [Rinkeby DAO](https://rinkeby.aragon.org/#/flight.aragonid.eth/) once your AGP is in the master branch of this repository.
