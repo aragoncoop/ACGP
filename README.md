@@ -7,8 +7,7 @@ As we are starting a governance framework practically from zero, we propose to s
 ## Where are we taking decitions?
 There are two organizations where the [AragonCoop Members](https://github.com/aragoncoop/membership) has their membership Tokens.
 
-The [Mainnet DAO](https://mainnet.aragon.org/#/0x940B2B518F761f4c52CDd9865C57D9a907DC5E82), which is currently holding the funds granted by the [AGP-40](https://github.com/aragon/AGPs/blob/master/AGPs/AGP-40.md) is located at: https://mainnet.aragon.org/#/0x940B2B518F761f4c52CDd9865C57D9a907DC5E82
-This DAO is being used for signalling intentions from the AragonCoop over the ANV, and shall be used to allocate funds according to the AGP-40's mandate.
+The [Mainnet DAO](https://mainnet.aragon.org/#/0x940B2B518F761f4c52CDd9865C57D9a907DC5E82), which is currently holding the funds granted by the [AGP-40](https://github.com/aragon/AGPs/blob/master/AGPs/AGP-40.md). This DAO is being used for signalling intentions from the AragonCoop over the ANV, and shall be used to allocate funds according to the AGP-40's mandate.
 
 The [Rinkeby DAO](https://rinkeby.aragon.org/#/flight.aragonid.eth/), recently created, will be used to test this proposed ACGP process and have the community signalling about desired decitions about new membership process, management of the AragonCoop operations, processes and funds.
 After having a first feedback from the community, we shall jointly decide which kind of decisions shall be migrated to the Mainnet DAO to consider them as completely binding or if we can consider the Rinkeby decisions as binding without going to mainnet.
@@ -16,4 +15,3 @@ After having a first feedback from the community, we shall jointly decide which 
 ## How do I propose a new ACGP
 
 It is as easy as cloning/coping the [ACGPtemplate.md](./ACGPtemplate.md) file and creating a new file with your proposal in the [ACGPs](./ACGPs/) folder in this Github repository and create yourself (you need to have a membership token of course) a new votarion in the [Rinkeby DAO](https://rinkeby.aragon.org/#/flight.aragonid.eth/) once your AGP is in the master branch of this repository.
-
