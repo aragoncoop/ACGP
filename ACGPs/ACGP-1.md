@@ -15,7 +15,7 @@ Created: 2019-05-03
 
 
 ## Description of desired ACGP and actions to be taken if any
-- To acknowledge that the destination os the funds will be to pay for hiring one or more Delegated Resources <!-- To defina what a DR is --> to work in a fully dedicated time for the Aragon Cooperative. The role and workscope of this individual(s) is to be defined by the Cooperative consensus. While the bandwith of these resources will be 5 Human Working Days (HWD) per week at a rate of pay 300 DAI/HWD.
+- To acknowledge that the destination of the funds will be to pay for hiring one or more Delegated Resources <!-- To defina what a DR is --> to work in a fully dedicated time for the Aragon Cooperative. The role and workscope of this individual(s) is to be defined by the Cooperative consensus. While the bandwith of these resources will be 5 Human Working Days (HWD) per week at a rate of pay 300 DAI/HWD.
 - To Acknowledge that there is a role of the Aragon Coop DAO to manage the allocation rules and scope of these funds.
 - To Ackowledge that Delegated Resources roles are reserved to Coop members, and that the Cooperative shall define the rules to select the appropiated resources for the appropiated task.
 - To Akcnowledge Julian and Gustavo as interin Delegated Resources, so Julian and Gustavo will commit to the judgement of the community regarding their roles, performance and permanence as well as the validation of their deliverables. (a [DRTracer repository](https://github.com/aragoncoop/DRtracer) is being constructed while this ACGP gets approval).
