@@ -2,7 +2,7 @@
 ACGP: 02 
 Title: Off-chain Membership onboarding/offboarding process. 
 Author: @sepu85
-Status: To be submitted into DAO votation. 
+Status: Rejected.
 ACGP reference: N/A
 Created: 2019-05-03
 ---
