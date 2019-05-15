@@ -2,7 +2,7 @@
 ACGP: 1 
 Title: AGP-40 Scope Ratification
 Author: @sepu85
-Status: To be submitted into DAO votation 
+Status: Approved (in Rinkeby) 
 ACGP reference: N/A
 Created: 2019-05-03
 ---
