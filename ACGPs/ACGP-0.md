@@ -2,7 +2,7 @@
 ACGP: 0 
 Title: The Aragon Cooperative Manifesto
 Author: @sepu85
-Status: To be submitted into DAO votation 
+Status: Approved (in Rinkeby) To be Submittet to Mainnet 
 ACGP reference: N/A
 Created: 2019-05-03
 ---
